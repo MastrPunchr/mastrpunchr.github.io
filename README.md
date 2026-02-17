@@ -3,4 +3,5 @@ Will include links to my
 - github
 - leetcode
 - linkedin
-alongside passions, interests, hobbies, projects, and an about me
+
+It will also include things like my passions, interests, hobbies, projects, and an about me
